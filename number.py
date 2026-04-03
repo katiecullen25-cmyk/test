@@ -2,23 +2,25 @@ this is a test file
 
 #this is a python file
 
-dont push that!
-
+dont
+push cthat!
 #code
 
+Clas
 
-fjfjfyjyffjyfyyfjyjffjy
+
+fjfjfyjyffjyfyyfjyjpending-voice-note$0ffjy
 
 hi?
 im good
-hellookkk
+hellookkkpending-voice-note$0
 hi?
 
 hello
-how are you
+how are ypending-voice-note$0ou
 okkkkk
 doo
-hicc
+hicpending-voice-note$0c
 hello?
 
 ok will this save
