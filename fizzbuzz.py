@@ -8,11 +8,10 @@ def fizz_buzz(n):
 
             # Add "FizzBuzz" to the result list
             result.append("FizzBuzz")
-            zxxxxx
+           # zxxxxx
 
         # Check if i is divisible by 3
         elif i % 3 == 0:
-            cd
 
             # Add "Fizz" to the result list
             result.append("Fizz")
@@ -31,3 +30,6 @@ def fizz_buzz(n):
 n = 10
 result = fizz_buzz(n)
 print(' '.join(result))
+
+for i in range(5):
+    print(i)
