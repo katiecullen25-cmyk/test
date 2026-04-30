@@ -10,7 +10,7 @@ def fizz_buzz(n):
             result.append("FizzBuzz")
            # zxxxxx
 
-        # Check if i is divisible by 3
+        # Check if i is divisible by 3S
         elif i % 3 == 0:
 
             # Add "Fizz" to the result list
@@ -26,7 +26,7 @@ def fizz_buzz(n):
             # Add the current number as a string to the result list
             result.append(str(i))
     return result
-
+#hi!
 n = 10
 result = fizz_buzz(n)
 print(' '.join(result))
